@@ -35,7 +35,7 @@ namespace Business.Concrete
                 }
                 else
                 {
-                    Console.WriteLine("CarDescription : {0} must be greater than 2", car.DailyPrice);
+                    Console.WriteLine("CarDescription : {0} must be greater than 2", car.Description);
                 }
             }
             else
